@@ -7,4 +7,4 @@ Including
 3. mjlog_reader
     * generete pile of tiles from mjlog xml
 
- Pile of tiles reproductions appear in notebook.ipnb
+ Pile of tiles reproductions appear in notebook.ipynb
