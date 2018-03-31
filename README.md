@@ -5,6 +5,6 @@ Including
 2. haiyama_sim
     * open mjlog, get initialize seed
 3. mjlog_reader
-    * generete pile of tiles from mjlog xml
+    * generate pile of tiles from mjlog xml
 
  Pile of tiles reproductions appear in notebook.ipynb
